@@ -1,2 +1,2 @@
-# jiajiecai.github.io
-JiajieCai个人主页
+# cscine.github.io
+cscine
