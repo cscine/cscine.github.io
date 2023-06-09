@@ -1,2 +1,0 @@
-# cscine.github.io
-cscine
